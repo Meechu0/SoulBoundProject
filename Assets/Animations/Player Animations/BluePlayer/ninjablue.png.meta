@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 87bd8162ccabf6646a5408394c447b47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6392324163492443934
+    second: ninjablue_0
+  - first:
+      213: 4220401661225353194
+    second: ninjablue_1
+  - first:
+      213: -5294797969063594639
+    second: ninjablue_2
+  - first:
+      213: 5213351179235417961
+    second: ninjablue_3
+  - first:
+      213: 377834539380604693
+    second: ninjablue_4
+  - first:
+      213: 6555946169039348754
+    second: ninjablue_5
+  - first:
+      213: -3147524672927011862
+    second: ninjablue_6
+  - first:
+      213: 8023871327478546097
+    second: ninjablue_7
+  - first:
+      213: -7550916538303601813
+    second: ninjablue_8
+  - first:
+      213: 2558381442218799467
+    second: ninjablue_9
+  - first:
+      213: 8355142459150879315
+    second: ninjablue_10
+  - first:
+      213: 7832813981550675693
+    second: ninjablue_11
+  - first:
+      213: -4106687262193588777
+    second: ninjablue_12
+  - first:
+      213: -7691125133309631670
+    second: ninjablue_13
+  - first:
+      213: 5206930798760391879
+    second: ninjablue_14
+  - first:
+      213: 2507331562806769593
+    second: ninjablue_15
+  - first:
+      213: 810194442571487912
+    second: ninjablue_16
+  - first:
+      213: -7038289388929873713
+    second: ninjablue_17
+  - first:
+      213: 1747930181118714334
+    second: ninjablue_18
+  - first:
+      213: -883021542172634782
+    second: ninjablue_19
+  - first:
+      213: -4788870052283759571
+    second: ninjablue_20
+  - first:
+      213: 2311853883510303096
+    second: ninjablue_21
+  - first:
+      213: -8931902068165192940
+    second: ninjablue_22
+  - first:
+      213: 2095540820835173671
+    second: ninjablue_23
+  - first:
+      213: 6271649916800854162
+    second: ninjablue_24
+  - first:
+      213: 6825123630679504916
+    second: ninjablue_25
+  - first:
+      213: -8547719868386327617
+    second: ninjablue_26
+  - first:
+      213: -1408423063143138679
+    second: ninjablue_27
+  - first:
+      213: -6946570365859953925
+    second: ninjablue_28
+  - first:
+      213: -3974860459635515701
+    second: ninjablue_29
+  - first:
+      213: -2536798900188289223
+    second: ninjablue_30
+  - first:
+      213: -4532798941076321931
+    second: ninjablue_31
+  - first:
+      213: 931517427168746147
+    second: ninjablue_32
+  - first:
+      213: 2694055788760358598
+    second: ninjablue_33
+  - first:
+      213: 74414303101600593
+    second: ninjablue_34
+  - first:
+      213: -337519228102882524
+    second: ninjablue_35
+  - first:
+      213: -2798076333213047455
+    second: ninjablue_36
+  - first:
+      213: -8153610765531989043
+    second: ninjablue_37
+  - first:
+      213: -5811387896982772788
+    second: ninjablue_38
+  - first:
+      213: 9086420404425532005
+    second: ninjablue_39
+  - first:
+      213: -5765225493641991088
+    second: ninjablue_40
+  - first:
+      213: 7916631113889929699
+    second: ninjablue_41
+  - first:
+      213: -2491453256230918341
+    second: ninjablue_42
+  - first:
+      213: -4069581655389441046
+    second: ninjablue_43
+  - first:
+      213: -3887448876523457537
+    second: ninjablue_44
+  - first:
+      213: -8997094530266055932
+    second: ninjablue_45
+  - first:
+      213: -4740163646456053815
+    second: ninjablue_46
+  - first:
+      213: -786322369655927356
+    second: ninjablue_47
+  - first:
+      213: -4422643005614185099
+    second: ninjablue_48
+  - first:
+      213: -1429007749608032283
+    second: ninjablue_49
+  - first:
+      213: 4682158689823154913
+    second: ninjablue_50
+  - first:
+      213: -1306673527598103749
+    second: ninjablue_51
+  - first:
+      213: 8702484725833033850
+    second: ninjablue_52
+  - first:
+      213: -6800641511178308273
+    second: ninjablue_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ninjablue_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 830
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e803e19a07e947a0800000000000000
+      internalID: -6392324163492443934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 833
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef3ec243f0e19a30800000000000000
+      internalID: 4220401661225353194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 833
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1753188dc491586b0800000000000000
+      internalID: -5294797969063594639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 833
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fd0b7a64b895840800000000000000
+      internalID: 5213351179235417961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_4
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 833
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f77aff2865e3500800000000000000
+      internalID: 377834539380604693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 760
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2146c2c4e466bfa50800000000000000
+      internalID: 6555946169039348754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 760
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb686c7cfeb154d0800000000000000
+      internalID: -3147524672927011862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 759
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1befcc5c5748a5f60800000000000000
+      internalID: 8023871327478546097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_8
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 760
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63aac53a61c53790800000000000000
+      internalID: -7550916538303601813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 760
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b613767ed52318320800000000000000
+      internalID: 2558381442218799467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 694
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ac8759ccd63f370800000000000000
+      internalID: 8355142459150879315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 694
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de68a02f0deb3bc60800000000000000
+      internalID: 7832813981550675693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 691
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5645571bd1207c0800000000000000
+      internalID: -4106687262193588777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 689
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43200ac072a34590800000000000000
+      internalID: -7691125133309631670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 689
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4772659fbb24840800000000000000
+      internalID: 5206930798760391879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 691
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7f83f95c4dbc220800000000000000
+      internalID: 2507331562806769593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 624
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa187c8d836e3b00800000000000000
+      internalID: 810194442571487912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 635
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc80f6a5719f25e90800000000000000
+      internalID: -7038289388929873713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 632
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1e3c12d35e14810800000000000000
+      internalID: 1747930181118714334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_19
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 633
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26158c9f590eeb3f0800000000000000
+      internalID: -883021542172634782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 636
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ce1a5f048a8db0800000000000000
+      internalID: -4788870052283759571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 629
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8792d3bbbda551020800000000000000
+      internalID: 2311853883510303096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 555
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413df6a64628b0480800000000000000
+      internalID: -8931902068165192940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 555
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725063e164bd41d10800000000000000
+      internalID: 2095540820835173671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 555
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298e586ee50690750800000000000000
+      internalID: 6271649916800854162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_25
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 555
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b6c2f7c5b7be50800000000000000
+      internalID: 6825123630679504916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 482
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3c8454116606980800000000000000
+      internalID: -8547719868386327617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 482
+        width: 83
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ab2ebafa6447ce0800000000000000
+      internalID: -1408423063143138679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_28
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 482
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf289a78e03d89f90800000000000000
+      internalID: -6946570365859953925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 482
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceddafb87576d8c0800000000000000
+      internalID: -3974860459635515701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 413
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937ecaf37da7bccd0800000000000000
+      internalID: -2536798900188289223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 413
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57901eef0634811c0800000000000000
+      internalID: -4532798941076321931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_32
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 413
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa9a742a2a6dec00800000000000000
+      internalID: 931517427168746147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 413
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce55265775336520800000000000000
+      internalID: 2694055788760358598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_34
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 343
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15344961a6f580100800000000000000
+      internalID: 74414303101600593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_35
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 343
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b4010ec04e05bf0800000000000000
+      internalID: -337519228102882524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 343
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165a868566c3b29d0800000000000000
+      internalID: -2798076333213047455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 343
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb3aab553e88de80800000000000000
+      internalID: -8153610765531989043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_38
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 277
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3665c6f7dc95fa0800000000000000
+      internalID: -5811387896982772788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 277
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56225a54733791e70800000000000000
+      internalID: 9086420404425532005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_40
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 278
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c617185fdcdffa0800000000000000
+      internalID: -5765225493641991088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 278
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9d631dd068ddd60800000000000000
+      internalID: 7916631113889929699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_42
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 214
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37add7b6749c6dd0800000000000000
+      internalID: -2491453256230918341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_43
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 214
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3f016cb01f587c0800000000000000
+      internalID: -4069581655389441046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 213
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f358e7d10d0ac0800000000000000
+      internalID: -3887448876523457537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_45
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 213
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb1e08136e32380800000000000000
+      internalID: -8997094530266055932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_46
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 152
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf34cb274e873eb0800000000000000
+      internalID: -4740163646456053815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 153
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd07bd88fb6615f0800000000000000
+      internalID: -786322369655927356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 152
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575200a5e9d9f92c0800000000000000
+      internalID: -4422643005614185099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_49
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 153
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7355fd5052b2ce0800000000000000
+      internalID: -1429007749608032283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 88
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2eae0758e5af040800000000000000
+      internalID: 4682158689823154913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_51
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 88
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33cb168953cddde0800000000000000
+      internalID: -1306673527598103749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_52
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 88
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786a8a10cf65c870800000000000000
+      internalID: 8702484725833033850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ninjablue_53
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 88
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45f071b3944f91a0800000000000000
+      internalID: -6800641511178308273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

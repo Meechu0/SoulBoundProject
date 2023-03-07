@@ -1,2 +1,1 @@
-# SoulBoundProject
- Simulated Games Studio Project
+# SoulBound
